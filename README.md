@@ -35,7 +35,7 @@ Adapted by [NdagiStanley](https://github.com/NdagiStanley) for CTS
 - ```
   docker-compose run --rm app sh -c 'python manage.py createsuperuser'
   ```
-- Login to admin page
+- Login to admin page to log in:
   <http://localhost:8000/admin/>
 
 
@@ -44,3 +44,8 @@ Adapted by [NdagiStanley](https://github.com/NdagiStanley) for CTS
   docker-compose run --rm app sh -c 'python manage.py test'
   ```
 
+### Routes
+
+1. Django Admin page:   <http://localhost:8000/admin/>
+1. API root:            <http://localhost:80/api/>
+1. Mayan Dashboard:     <http://localhost:80/>

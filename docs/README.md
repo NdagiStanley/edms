@@ -1,8 +1,10 @@
 # EDMS prototype
 
+> [Repository link](https://github.com/NdagiStanley/edms).
+
 Adapted by [NdagiStanley](https://github.com/NdagiStanley) for CTS as a prototype example of EDMS set up.
 
-Setup instructions can be found [here](../README.md).
+Setup instructions can be found [here](https://github.com/NdagiStanley/edms/blob/main/README.md).
 
 ## Proposal
 
