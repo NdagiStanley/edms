@@ -18,10 +18,10 @@ mayanPassword = "FuEdkQUMTH"
 
 def documentUpload(request):
     """
-	function to upload file to mayan sever
-	this function takes request and save file and
-	then upload
-	"""
+    function to upload file to mayan sever
+    this function takes request and save file and
+    then upload
+    """
     File = request.FILES["file"]
 
     # file object

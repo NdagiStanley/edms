@@ -3,9 +3,9 @@ from django.db import models
 
 class Document(models.Model):
     """
-	this model save responce from
-	mayan after uploading
-	"""
+    this model save responce from
+    mayan after uploading
+    """
 
     description = models.TextField(blank=True)
     document_type = models.CharField(max_length=10, blank=True)
